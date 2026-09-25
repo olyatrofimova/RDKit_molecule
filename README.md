@@ -25,7 +25,7 @@ python rdkit_molecule.py
 В папке outputs/ сохраняются png и svg с изображениями молекул.
 
 Пример:
-
+```
 === CN1C=NC2=C1C(=O)N(C(=O)N2C)C ===
 0 C 1
 1 N 3
@@ -59,5 +59,6 @@ python rdkit_molecule.py
 MW=194.19, LogP=-1.03, TPSA=61.82
 Длина фингерпринта: 2048
 Число единичных битов: 25
+```
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9ee79210-f252-42e7-b576-9f5a8d051343" />
