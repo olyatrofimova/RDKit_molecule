@@ -33,3 +33,4 @@ python rdkit_molecule.py
     MW=46.07, LogP=-0.00, TPSA=20.23
     Длина фингерпринта: 2048
     Число единичных битов: 3
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/350041e9-8b97-4c86-86d6-fdd3b34b25d4" />
